@@ -8,7 +8,7 @@
 
 ## Usage
 
-<p>The app is coded in vanilla JS, so no installs are needed short of python in order to start the server. Once the server is active, it can be accessed using any web browser. To start the server, simply navigate to the directory and run:<br><code>python -m http.server 8080</code><br> Then go to http://192.168.1.75:8080/chat.html to see the interface.
+<p>The app is coded in vanilla JS, so no installs are needed short of python in order to start the server. Once the server is active, it can be accessed using any web browser. To start the server, simply navigate to the directory and run:<br><code>python -m http.server 8080</code><br> Then go to http://192.168.1.75:8080/ to see the interface.
 
 ### Note
 
