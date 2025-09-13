@@ -4,9 +4,11 @@
 
 ## Requirments
 
-<p>This is more or less an independant extension of LMstudio, so it is required to operate, as well as python to operate the server.</p>
+<p>This is meant to be used with LMstudio, So that will have to be set up in dev mode, with the models downloaded. Docs for that can be found at https://lmstudio.ai/. This also requires python to operate.</p>
 
 ## Usage
+
+<p>If you are using a windows machine, you should be able to just run the batch file. If you are on a different platform or the batch file fails, follow the instructions below</p>
 
 <p>The app is coded in vanilla JS, so no installs are needed short of python in order to start the server. Once the server is active, it can be accessed using any web browser. To start the server, simply navigate to the directory and run:<br><code>python -m http.server 8080</code><br> Then go to http://192.168.1.75:8080/ to see the interface.
 
